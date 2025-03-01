@@ -1,31 +1,45 @@
-# Hi there! 👋 I'm Mohammad Taha
+# Hi there! 👋 I'm Muhammad Taha
 
-### 🚀 About Me
-I am a passionate **Full-Stack Developer** with expertise in **Laravel** and experience in the **MERN stack**. Currently, I am transitioning to **Spring Boot** to expand my skill set and secure high-paying opportunities in well-established companies. Additionally, I am exploring **game development** as a beginner, eager to dive into the exciting world of interactive experiences.
+## 💼 Full Stack Developer
 
-### 💡 Tech Stack
-- **Backend:** Laravel, Spring Boot (learning)
-- **Frontend:** React (with Vite), Next.js
+### 📌 About Me
+I am a dedicated **Full-Stack Developer** with hands-on experience in **Laravel, PHP, and the MERN stack**. Passionate about building scalable and efficient applications, I have contributed to various projects, including CMS, Real Estate Management Systems, ERPs, and Document Management Systems. Currently, I am expanding my expertise by learning **Spring Boot** and exploring **game development** as a beginner.
+
+### 🛠️ Tech Stack
+- **Backend:** Laravel, PHP, Spring Boot (learning), ASP.NET MVC
+- **Frontend:** React (with Vite), Next.js, JavaScript, jQuery, Bootstrap
 - **Database:** MySQL
 - **Tools & Platforms:** Android Studio (Kotlin), Tableau Desktop, Laravel Telescope
 
-### 🏗️ Projects & Interests
-- **Finance CRM** – Building a finance management system using Laravel.
-- **GreenGro** – Developing an attractive grocery shopping app in Kotlin.
-- **Rental Management System** – Working on an admin dashboard in Next.js.
-- **Game Development** – Exploring game dev as a beginner.
+### 🎓 Education
+- **Higher National Diploma** – Extreme Commerce (2023-Present)
+- **Advanced Diploma in Software Engineering** – Aptech Pakistan (2021-2024)
+- **Higher Secondary Certificate (HSC)** – Sir Adamjee College (2020-2022)
 
-### 🎯 Goals
-- Master **Spring Boot** for backend development.
-- Enhance proficiency in **React with Vite** for modern frontend applications.
-- Gain expertise in **game development** and explore different game engines.
-- Continuously improve database optimization and UI/UX skills.
+### 💼 Work Experience
+- **Full Stack Developer** – Webnet Pakistan (2024-Present)
+- **Full Stack Developer** – Digi Tech Pakistan (2022-2024)
+  - Developed various web applications, including CMS, ERPs, and POS software.
+  - Worked on government projects, including **Work Welfare Fund – Government of Sindh**.
+  - Designed and implemented a **Document Management System** for **Trading Corporation of Pakistan**, handling 600,000–700,000 files.
+
+### 🚀 Projects
+- **Case Management System (TCP)** – Managed legal cases, user roles, courts, and law firms.
+- **Voter Management System** – Oversaw election data and political party information.
+- **School Portal** – Built a comprehensive educational management system.
+- **Document Management System** – Enhanced file organization and accessibility for a government entity.
+- **Inventory Management System** – Developed for a freelance client ([Demo](https://ims.thedynotech.us/)).
+- **Amazon Seller Central Forum - CMS** – Created a content management system for Amazon sellers.
+
+### 🌍 Languages
+- **English**
+- **Urdu**
 
 ### 📫 Connect With Me
-Let's collaborate or discuss tech! Feel free to reach out:
-- **GitHub:** [github.com/MohammadTaha0](#)
-- **LinkedIn:** [linkedin.com/in/muhammad-taha-k](#)
-- **Email:** [m.taha10045@gmail.com](#)
+Let's collaborate or discuss new opportunities!
+- **GitHub:** [github.com/MohammadTaha0](https://github.com/MohammadTaha0)
+- **Email:** [m.taha10045@gmail.com](mailto:m.taha10045@gmail.com)
+- **Location:** North Karachi, Karachi
 
-Always open to exciting opportunities and learning new technologies! 🚀
+Looking forward to exciting challenges and innovative projects! 🚀
 
