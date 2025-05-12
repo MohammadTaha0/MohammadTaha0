@@ -39,6 +39,7 @@ I am a dedicated **Full-Stack Developer** with hands-on experience in **Laravel,
 ### 📫 Connect With Me
 Let's collaborate or discuss new opportunities!
 - **GitHub:** [github.com/MohammadTaha0](https://github.com/MohammadTaha0)
+- **Linkedin:** [linkedin.com/in/mohammad-taha-k/](https://www.linkedin.com/in/mohammad-taha-k)
 - **Email:** [m.taha10045@gmail.com](mailto:m.taha10045@gmail.com)
 - **Location:** North Karachi, Karachi
 
