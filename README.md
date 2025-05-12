@@ -17,7 +17,8 @@ I am a dedicated **Full-Stack Developer** with hands-on experience in **Laravel,
 - **Higher Secondary Certificate (HSC)** – Sir Adamjee College (2020-2022)
 
 ### 💼 Work Experience
-- **Full Stack Developer** – Webnet Pakistan (2024-Present)
+- **Full Stack Developer** – Bharmal System Designer (2025-Present)
+- **Full Stack Developer** – Webnet Pakistan (2024)
 - **Full Stack Developer** – Digi Tech Pakistan (2022-2024)
   - Developed various web applications, including CMS, ERPs, and POS software.
   - Worked on government projects, including **Work Welfare Fund – Government of Sindh**.
